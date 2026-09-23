@@ -1,0 +1,4 @@
+interface:
+  display_name: "闻小新 · 写作审核校对助手"
+  short_description: "学习参考文本的表达特点，完成新闻与新媒体写作、审核和校对"
+  default_prompt: "请使用 $wenxiaoxin-news-review 根据我的范文和事实材料写稿，或审核、校对现有稿件；保留事实依据与待核事项。"
